@@ -1,52 +1,86 @@
-# Hi, I'm Alan Tan
+# Alan Tan
 
-### Software Engineering Student | Full-Stack, Mobile & AI Developer
+**Software engineering student building thoughtful web, mobile, AI, and game experiences**
 
-I build practical digital products across full-stack development, mobile applications, artificial intelligence, and game development. I enjoy turning ideas into working software, understanding how each part of a system fits together, and improving products through hands-on experimentation.
+I build practical products across full-stack web development, mobile applications, AI, UI/UX, and game development—from a workshop management system for a real client to an adaptive study planner powered by machine learning. I care about clear interfaces, useful systems, and learning by building the whole experience.
 
-- Studying **Bachelor of Software Engineering** at Sultan Idris Education University
-- Building **Planova**, an AI-powered adaptive study planner for university students
-- Experienced with real client, academic, and internship projects
-- Represented Malaysia at the **Adobe Certified Professional World Championship 2024**, placing **7th internationally** among competitors from 47 countries
-- Represented Malaysia as a finalist at the **Microsoft Office Specialist World Championship 2025**
+[Portfolio](https://alan-portfolio-navy.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/alantan-dev) · [Résumé](https://drive.google.com/file/d/1ayT8tptzjWGeCmKrsbMiIP7bBM2MHa_d/view?usp=sharing) · [Email](mailto:alant4607@gmail.com)
 
-## Featured Projects
+## Currently
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| **Planova** | AI-powered mobile study planner that prioritizes academic tasks and generates adaptive study schedules. | Flutter, Firebase, Python, LightGBM, DEAP |
-| [CPTyres](https://github.com/Alantan97/cptyres-system) | Full-stack workshop management system developed for a real automotive workshop client. | Laravel, MySQL, Tailwind CSS |
-| [TravelBah!](https://github.com/ncychannnn/TravelBah-) | Mobile travel community for discovering Sabah destinations, sharing journeys, and saving favourite places. | Flutter, Dart, Firebase, Cloudinary |
-| [Memory of Regret](https://alantan.itch.io/memory-of-regret) | Award-winning 2D story-driven platformer combining exploration, puzzles, quests, and combat. | Unity, C#, Photoshop |
+- Completing a **Bachelor of Software Engineering** at Sultan Idris Education University, expected in 2027.
+- Building **Planova**, my final-year project: an adaptive study planner that ranks academic tasks and generates personalized schedules.
 
-## Technical Skills
+## Featured work
 
-**Programming:** Python | C# | C++ | Dart | PHP | SQL | JavaScript | TypeScript | Java | HTML/CSS
+### Planova — AI-powered adaptive study planner
 
-**Frameworks & Libraries:** React | Next.js | Flutter | Laravel | Tailwind CSS
+**In progress · Mobile app · Final-year project**
 
-**Machine Learning & Data:** Scikit-learn | LightGBM | DEAP | Pandas | NumPy
+Helps university students turn competing deadlines and available study time into prioritized tasks and adaptive schedules. I am building the full product and using LambdaMART for task ranking and a genetic algorithm for schedule generation and adjustment.
 
-**Databases & Cloud:** MySQL | Firebase
+- **My contribution:** Full-stack development
+- **Stack:** Flutter · Firebase · Python · LightGBM · DEAP · Pandas · NumPy
 
-**Developer & Design Tools:** Git | GitHub | VS Code | Figma | Photoshop | Unity
+### [CPTyres — Car workshop management system](https://github.com/Alantan97/cptyres-system)
 
-## Experience
+**Completed · Web application · Client project**
 
-**Game Developer Intern - Noels IT Solution Sdn Bhd**  
-Developed mobile and PC games using Unity and C#, including the hyper-casual mobile game **Busted!!**, and redesigned the company website to improve its content structure and user experience.
+Replaced scattered manual workshop records with one system for customers, vehicles, services, job orders, staff, reminders, and analytics. I led the full-stack development, implemented the client-requested workflows, and deployed the production system to a VPS.
 
-## Education
+- **My contribution:** Lead full-stack developer
+- **Stack:** Laravel · MySQL · Tailwind CSS · VPS hosting
+- **Explore:** [CPTyres source code](https://github.com/Alantan97/cptyres-system) · [CPTyres video demo](https://youtu.be/_BQOTaFezgI)
 
-**Bachelor of Software Engineering** | 2023-2027  
-Sultan Idris Education University | Current CGPA: 3.84
+### [TravelBah! — Sabah travel community](https://github.com/ncychannnn/TravelBah-)
 
-**Diploma in Game Design and Development** | 2021-2023  
-Sultan Idris Education University | CGPA: 3.92
+**Completed · Mobile app · Team project**
 
-## Connect With Me
+Brings Sabah destination discovery, travel posts, comments, likes, wishlists, and profiles into one focused mobile experience. I led the team, helped structure the app and user flows, built reusable Flutter interfaces and CRUD features, and integrated Firebase services.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Tan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alantan-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Alantan97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alantan97)
-[![Email](https://img.shields.io/badge/Email-alant4607%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alant4607@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-2563EB?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ayT8tptzjWGeCmKrsbMiIP7bBM2MHa_d/view?usp=sharing)
+- **My contribution:** Team lead and mobile developer
+- **Stack:** Flutter · Dart · Firebase · Cloudinary
+- **Explore:** [TravelBah! source code](https://github.com/ncychannnn/TravelBah-) · [TravelBah! Android build](https://drive.google.com/drive/folders/1zMQnN6bCvEnQxqyavey7FUrqgdqBXEt6?usp=sharing)
+
+### [Memory of Regret — Story-driven 2D platformer](https://alantan.itch.io/memory-of-regret)
+
+**Completed · Mobile game · Diploma final-year project**
+
+Combines exploration, environmental puzzles, NPC quests, collectibles, combat, and boss encounters in an emotional journey about respecting parents. The project received **Best Project** and **Best Poster** at the Diploma Innovative & Creative Project Exhibition 2023.
+
+- **My contribution:** Game designer and developer
+- **Stack:** Unity · C# · Photoshop
+- **Explore:** [Memory of Regret game page](https://alantan.itch.io/memory-of-regret) · [Gameplay trailer](https://youtu.be/HZFHHFQFzdg) · [Memory of Regret Android build](https://drive.google.com/drive/folders/1V1zlk_0yiKcdmyBtLLLT4Ms1_AhGmALI?usp=sharing)
+
+## Technical toolkit
+
+**Languages:** Python · C# · C++ · Dart · PHP · SQL · JavaScript · TypeScript · Java · HTML/CSS
+
+**Web & mobile:** React · Next.js · Flutter · Laravel · Tailwind CSS
+
+**Machine learning & data:** Scikit-learn · LightGBM · DEAP · Pandas · NumPy
+
+**Data & cloud:** MySQL · Firebase
+
+**Creative & developer tools:** Git · GitHub · VS Code · Figma · Photoshop · Unity
+
+## Selected achievements
+
+- **7th place worldwide — Adobe Certified Professional World Championship 2024.** Represented Malaysia in Anaheim, California, competing in an eight-hour design challenge among 47 international finalists. [View the official results](https://www.prweb.com/releases/certiport-names-2024-adobe-certified-professional-world-champion-from-malaysia-302211520.html).
+- **Finalist — Microsoft Office Specialist World Championship 2025.** Represented Malaysia in the PowerPoint competition in Orlando, Florida after placing third nationally. [Read the UPSI qualification announcement](https://epena.com.my/index.php/2025/06/03/pelajar-upsi-raih-tempat-ketiga-dalam-kelayakan-microsoft-office-specialist-world-championship-2025/).
+
+## Experience & education
+
+**Game Developer Intern · Noels IT Solution Sdn Bhd** · *June–July 2023*
+
+Developed mobile and PC games with Unity and C#, including the touch-based mobile game **Busted!!**, and redesigned the company website to improve its structure and user experience.
+
+**Bachelor of Software Engineering · Sultan Idris Education University** · *2023–2027 · Current CGPA: 3.84*
+
+**Diploma in Game Design and Development · Sultan Idris Education University** · *2021–2023 · CGPA: 3.92*
+
+## Let’s connect
+
+I’m interested in opportunities and collaborations where I can build useful products, solve real problems, and keep growing across software engineering, AI, and interactive experiences.
+
+[View my portfolio](https://alan-portfolio-navy.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/alantan-dev) · [Email me](mailto:alant4607@gmail.com) · [View my résumé](https://drive.google.com/file/d/1ayT8tptzjWGeCmKrsbMiIP7bBM2MHa_d/view?usp=sharing) · [Explore my GitHub](https://github.com/Alantan97)
