@@ -5,22 +5,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://alan-portfolio-navy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alantan-dev)
 [![Résumé](https://img.shields.io/badge/Résumé-334155?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1ayT8tptzjWGeCmKrsbMiIP7bBM2MHa_d/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alant4607@gmail.com)
-
-### I turn ideas into thoughtful digital experiences.
 
 I work across **full-stack development, mobile applications, AI, UI/UX, and games**—bringing engineering and design together to create products that are useful, intuitive, and memorable.
 
 </div>
 
 > [!NOTE]
-> **Currently** — Completing a Bachelor of Software Engineering at Sultan Idris Education University and building **Planova**, an adaptive study planner that ranks academic tasks and generates personalized schedules.
+> **📍 Currently** — Completing a Bachelor of Software Engineering at Sultan Idris Education University and building **Planova**, an adaptive study planner that ranks academic tasks and generates personalized schedules.
 
-## Featured work
-
-<a href="https://alan-portfolio-navy.vercel.app/">
-  <img src="https://raw.githubusercontent.com/Alantan97/alan-portfolio/main/public/images/projects/p-cover.png" width="100%" alt="Planova adaptive study planner project cover">
-</a>
+## 🚀 Featured Projects
 
 ### Planova · Adaptive study planner
 
@@ -33,12 +26,6 @@ Turns university tasks, deadlines, and available study time into prioritized tas
 
 [Explore Planova on my portfolio →](https://alan-portfolio-navy.vercel.app/)
 
----
-
-<a href="https://github.com/Alantan97/cptyres-system">
-  <img src="https://raw.githubusercontent.com/Alantan97/alan-portfolio/main/public/images/projects/cp-cover.png" width="100%" alt="CPTyres car workshop management system project cover">
-</a>
-
 ### CPTyres · Car workshop management system
 
 <sub>COMPLETED · WEB · CLIENT PROJECT</sub>
@@ -49,12 +36,6 @@ Centralizes customers, vehicles, services, job orders, staff, reminders, and ana
 **Built with:** `Laravel` `MySQL` `Tailwind CSS` `VPS`
 
 [Source code](https://github.com/Alantan97/cptyres-system) · [Video demo](https://youtu.be/_BQOTaFezgI)
-
----
-
-<a href="https://github.com/ncychannnn/TravelBah-">
-  <img src="https://raw.githubusercontent.com/Alantan97/alan-portfolio/main/public/images/projects/travel-cover.png" width="100%" alt="TravelBah Sabah travel community mobile application project cover">
-</a>
 
 ### TravelBah! · Sabah travel community
 
@@ -67,12 +48,6 @@ Brings Sabah destination discovery, travel posts, comments, likes, wishlists, an
 
 [Source code](https://github.com/ncychannnn/TravelBah-) · [Download Android build](https://drive.google.com/drive/folders/1zMQnN6bCvEnQxqyavey7FUrqgdqBXEt6?usp=sharing)
 
----
-
-<a href="https://alantan.itch.io/memory-of-regret">
-  <img src="https://raw.githubusercontent.com/Alantan97/alan-portfolio/main/public/images/projects/mor-cover.png" width="100%" alt="Memory of Regret story-driven 2D platform game project cover">
-</a>
-
 ### Memory of Regret · Story-driven 2D platformer
 
 <sub>COMPLETED · MOBILE GAME · DIPLOMA PROJECT</sub>
@@ -84,7 +59,7 @@ Combines exploration, puzzles, quests, collectibles, combat, and boss encounters
 
 [Game page](https://alantan.itch.io/memory-of-regret) · [Watch trailer](https://youtu.be/HZFHHFQFzdg) · [Download Android build](https://drive.google.com/drive/folders/1V1zlk_0yiKcdmyBtLLLT4Ms1_AhGmALI?usp=sharing)
 
-## Selected achievements
+## 🏆 Selected achievements
 
 ### 07 · Worldwide
 
@@ -100,7 +75,7 @@ Placed **7th internationally** in an eight-hour design challenge among 47 finali
 Represented Malaysia at the world championship after placing third in the national qualification.  
 [Read the UPSI qualification announcement →](https://epena.com.my/index.php/2025/06/03/pelajar-upsi-raih-tempat-ketiga-dalam-kelayakan-microsoft-office-specialist-world-championship-2025/)
 
-## Technical toolkit
+## 🧰 Technical toolkit
 
 **Languages**  
 `Python` · `C#` · `C++` · `Dart` · `PHP` · `SQL` · `JavaScript` · `TypeScript` · `Java`
@@ -114,7 +89,7 @@ Represented Malaysia at the world championship after placing third in the nation
 **Platforms & creative tools**  
 `MySQL` · `Firebase` · `Git` · `GitHub` · `Figma` · `Photoshop` · `Unity`
 
-## Experience & education
+## 🎓 Experience & education
 
 **Game Developer Intern** · Noels IT Solution Sdn Bhd  
 <sub>JUN–JUL 2023</sub>  
@@ -131,7 +106,7 @@ Built mobile and PC games with Unity and C#, including **Busted!!**, and redesig
 
 <div align="center">
 
-### Have an interesting product or interactive idea?
+### 🤝 Have an interesting product or interactive idea?
 
 I’m open to software engineering opportunities and collaborations across web, mobile, AI, and creative technology.
 
