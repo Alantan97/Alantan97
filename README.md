@@ -1,4 +1,4 @@
-![Alan Tan — software engineering student and product builder](./github-profile-assets/header-dark.svg#gh-dark-mode-only)![Alan Tan — software engineering student and product builder](./github-profile-assets/header-light.svg#gh-light-mode-only)
+![Alan Tan — software engineering student and product builder](./github-profile-assets/header-dark.svg#gh-dark-mode-only)![Alan Tan — software engineering student and product builder](./github-profile-assets/github header.png#gh-light-mode-only)
 
 <div align="center">
 
