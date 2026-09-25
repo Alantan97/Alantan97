@@ -59,7 +59,7 @@ Combines exploration, puzzles, quests, collectibles, combat, and boss encounters
 
 [Game page](https://alantan.itch.io/memory-of-regret) · [Watch trailer](https://youtu.be/HZFHHFQFzdg) · [Download Android build](https://drive.google.com/drive/folders/1V1zlk_0yiKcdmyBtLLLT4Ms1_AhGmALI?usp=sharing)
 
-## 🏆 Selected achievements
+## 🏆 Selected Achievements
 
 ### 07 · Worldwide
 
@@ -75,7 +75,7 @@ Placed **7th internationally** in an eight-hour design challenge among 47 finali
 Represented Malaysia at the world championship after placing third in the national qualification.  
 [Read the UPSI qualification announcement →](https://epena.com.my/index.php/2025/06/03/pelajar-upsi-raih-tempat-ketiga-dalam-kelayakan-microsoft-office-specialist-world-championship-2025/)
 
-## 🧰 Technical toolkit
+## 🧰 Technical Toolkit
 
 **Languages**  
 `Python` · `C#` · `C++` · `Dart` · `PHP` · `SQL` · `JavaScript` · `TypeScript` · `Java`
@@ -89,7 +89,7 @@ Represented Malaysia at the world championship after placing third in the nation
 **Platforms & creative tools**  
 `MySQL` · `Firebase` · `Git` · `GitHub` · `Figma` · `Photoshop` · `Unity`
 
-## 🎓 Experience & education
+## 🎓 Experience & Education
 
 **Game Developer Intern** · Noels IT Solution Sdn Bhd  
 <sub>JUN–JUL 2023</sub>  
@@ -110,6 +110,6 @@ Built mobile and PC games with Unity and C#, including **Busted!!**, and redesig
 
 I’m open to software engineering opportunities and collaborations across web, mobile, AI, and creative technology.
 
-[**View my portfolio**](https://alan-portfolio-navy.vercel.app/) · [**Connect on LinkedIn**](https://www.linkedin.com/in/alantan-dev) · [**Send me an email**](mailto:alant4607@gmail.com) · [**Explore my GitHub**](https://github.com/Alantan97)
+[**View my portfolio**](https://alan-portfolio-navy.vercel.app/) · [**Connect on LinkedIn**](https://www.linkedin.com/in/alantan-dev)
 
 </div>
