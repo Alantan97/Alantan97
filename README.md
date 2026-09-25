@@ -59,6 +59,13 @@ Combines exploration, puzzles, quests, collectibles, combat, and boss encounters
 - **Technology:** `Unity` · `C#` · `Photoshop`
 - **Explore:** [Game page](https://alantan.itch.io/memory-of-regret) · [Watch trailer](https://youtu.be/HZFHHFQFzdg) · [Download Android build](https://drive.google.com/drive/folders/1V1zlk_0yiKcdmyBtLLLT4Ms1_AhGmALI?usp=sharing)
 
+## 🧰 Technical Toolkit
+
+- **Languages:** `Python` · `C#` · `C++` · `Dart` · `PHP` · `SQL` · `JavaScript` · `TypeScript` · `Java`
+- **Web & mobile:** `React` · `Next.js` · `Flutter` · `Laravel` · `Tailwind CSS`
+- **Machine learning & data:** `Scikit-learn` · `LightGBM` · `DEAP` · `Pandas` · `NumPy`
+- **Platforms & creative tools:** `MySQL` · `Firebase` · `Git` · `GitHub` · `Figma` · `Photoshop` · `Unity`
+
 ## 🏆 Selected Achievements
 
 ### 07 · Worldwide
@@ -76,13 +83,6 @@ Combines exploration, puzzles, quests, collectibles, combat, and boss encounters
 - **Result:** Selected to represent Malaysia at the world championship.
 - **Qualification:** Placed third in the national PowerPoint competition.
 - **Verification:** [Read the UPSI qualification announcement →](https://epena.com.my/index.php/2025/06/03/pelajar-upsi-raih-tempat-ketiga-dalam-kelayakan-microsoft-office-specialist-world-championship-2025/)
-
-## 🧰 Technical Toolkit
-
-- **Languages:** `Python` · `C#` · `C++` · `Dart` · `PHP` · `SQL` · `JavaScript` · `TypeScript` · `Java`
-- **Web & mobile:** `React` · `Next.js` · `Flutter` · `Laravel` · `Tailwind CSS`
-- **Machine learning & data:** `Scikit-learn` · `LightGBM` · `DEAP` · `Pandas` · `NumPy`
-- **Platforms & creative tools:** `MySQL` · `Firebase` · `Git` · `GitHub` · `Figma` · `Photoshop` · `Unity`
 
 ## 🎓 Experience & Education
 
